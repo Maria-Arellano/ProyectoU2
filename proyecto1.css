@@ -1,0 +1,180 @@
+body{
+    background: url(https://image.winudf.com/v2/image1/Y29tLmZlcmVzci53YWxweV9zY3JlZW5fN18xNTUwNDEwNzgzXzA4OQ/screen-8.jpg?fakeurl=1&type=.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif
+}
+h1{
+    text-align: center;
+    color: rgb(12, 247, 12);
+}
+summary{
+    text-align: 1PX;
+    color: rgb(222, 241, 248);
+
+}
+
+.contenido{
+    float: left;
+    width: 78%;
+    height: 190px;
+    background-color: rgb(225, 235, 172);
+    margin:4px;
+    text-align: justify;
+    text-anchor: 4px;
+    margin-top: 14px;
+}
+p{
+    text-align: 1PX;
+    color: rgb(16, 38, 233);
+
+}
+img{
+    float: left;
+    margin: 40px;
+    margin-left: 2%;
+    height: 200px;
+}
+.op{
+    margin:0px;
+}
+body{
+    font-family: sans-serif;
+}
+nav{
+    /*outline: 1px solid black;*/
+}
+ul{
+    /*outline: 1px solid blue;*/
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(192, 215, 238, 0.87);
+    line-height: 40px;
+    overflow: auto;
+}
+li{
+    /*outline: 1px solid green;*/
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    /*outline: 1px solid blueviolet;*/
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(244, 252, 252);
+}
+a:hover{
+    background-color: #12dfa1;
+    color: #000;
+    }S
+.hear{
+        background-color: red;
+        float: left;
+        height: 40px;
+        width: 100%;
+    }
+    nav{
+        /*outline: 1px solid blueviolet;*/
+    }
+    ul{
+        /*outline: 1px solid blue;*/
+        line-height: 40px;
+        padding: 0;
+        margin: 0;
+        background-color: #6d1180;
+        line-height: 40px;
+        overflow: auto;
+    }
+    li{
+        /*outline: 1px solid greenyellow;*/
+        width: 320px;
+        display: inline-block;
+        text-align: center;
+    
+    }
+    .caja1{
+        background-color: rgb(165, 106, 145);
+        float: left;
+        height: 50px;
+        width: 80%;
+        margin-top: 50px;
+        margin-left: 200px;
+    }
+    
+    .cajaprincipal{
+        text-align: justify;
+        margin-top: 100px ;
+        margin-left: 30px ;
+        margin-right: 1px ;
+        margin-bottom: 1px;
+   
+    }
+    .texto{
+        text-align: justify;
+        margin-top: 100px ;
+        margin-left: 30px ;
+        margin-right: 1px ;
+        margin-bottom: 1px;
+   
+    }    
+    .caja2{
+        float: left;
+        width: 25%;
+        height: 200px;
+        background-color: rgb(173, 192, 196);
+        margin-left: 200px;
+    }
+    
+    .caja3{
+        float: left;
+        width: 55%;
+        height: 200px;
+        background-color: rgb(209, 193, 139);
+        text-align: justify;
+      
+    }
+    .imagen1{
+        background: url(https://phoneky.co.uk/thumbs/screensavers/down/spiritual/allahampmu_lru9imuo.gif);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        margin: auto;
+        width: 200px;
+        height: 160px;
+    }
+    .imagen2{
+            background: url(https://c.tenor.com/kUyAazdwMYIAAAAC/allah-wave.gif);
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center;
+            margin: auto;
+            width: 200px;
+            height: 160px;
+    }
+    .imagen3{
+        background: url(https://c.tenor.com/-2pDqL7pxAAAAAAC/nasserq-allah.gif);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        margin: auto;
+        width: 200px;
+        height: 160px;
+    }
+    @font-face {
+        font-family: diseño;
+        src: url(letra2.otf);
+    }
+    
+    h1{
+        font-family: diseño;
+    }
+    
+    p{
+        font-family: diseño;
+    }  
+    
